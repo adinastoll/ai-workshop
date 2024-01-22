@@ -1,5 +1,7 @@
 # Welcome to AI Workshop
 
+![](https://learn.microsoft.com/en-us/azure/machine-learning/prompt-flow/media/overview-what-is-prompt-flow/prompt-flow-lifecycle.png?view=azureml-api-2#lightbox)
+
 This is a small sample book to give you a feel for how book content is
 structured.
 It shows off a few of the major file types, as well as some sample content.
